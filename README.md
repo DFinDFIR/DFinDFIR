@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DFinDFIR
-- 👀 I’m interested in Digital Forensics tools, Powershell, .NET and overall security and scripting for Windows Environements
-- 🌱 I’m currently learning about digital forensic artifacts and memory analysis
+- 👀 I’m interested in Digital Forensics tools - especially Velociraptor, Powershell, .NET and overall security and scripting for Windows Environements
+- 🌱 I’m currently learning about digital forensic artifacts, Velociraptor and Memory Analysis
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me on here or on twitter, @DFinDFIR
 
